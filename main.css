@@ -1,0 +1,10 @@
+/* main.css — puedes usar Tailwind o estilos personalizados */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #181825;
+    color: #f3f3f3;
+}
+canvas {
+    background: #232336;
+    border-radius: 8px;
+}
